@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/statefacts/static/css/main.2f6ca9e1.chunk.css",
+    "main.js": "/statefacts/static/js/main.564879fd.chunk.js",
+    "main.js.map": "/statefacts/static/js/main.564879fd.chunk.js.map",
+    "runtime-main.js": "/statefacts/static/js/runtime-main.dae7d968.js",
+    "runtime-main.js.map": "/statefacts/static/js/runtime-main.dae7d968.js.map",
+    "static/js/2.8a6b2ac6.chunk.js": "/statefacts/static/js/2.8a6b2ac6.chunk.js",
+    "static/js/2.8a6b2ac6.chunk.js.map": "/statefacts/static/js/2.8a6b2ac6.chunk.js.map",
+    "static/js/3.28f42a6f.chunk.js": "/statefacts/static/js/3.28f42a6f.chunk.js",
+    "static/js/3.28f42a6f.chunk.js.map": "/statefacts/static/js/3.28f42a6f.chunk.js.map",
+    "index.html": "/statefacts/index.html",
+    "static/css/main.2f6ca9e1.chunk.css.map": "/statefacts/static/css/main.2f6ca9e1.chunk.css.map",
+    "static/js/2.8a6b2ac6.chunk.js.LICENSE.txt": "/statefacts/static/js/2.8a6b2ac6.chunk.js.LICENSE.txt",
+    "static/media/texas.4d6687b2.png": "/statefacts/static/media/texas.4d6687b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dae7d968.js",
+    "static/js/2.8a6b2ac6.chunk.js",
+    "static/css/main.2f6ca9e1.chunk.css",
+    "static/js/main.564879fd.chunk.js"
+  ]
+}
